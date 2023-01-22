@@ -1,0 +1,5 @@
+From: test@example.com
+Subject: =?UTF-8?B?5Y+X44GR5LuY44GR5LuY44GR44G+44GX44GF?=
+Content-Type: text/plain; charset="UTF-8"
+Content-Transfer-Encoding: 8bit
+お問い合わせを受け付けました
